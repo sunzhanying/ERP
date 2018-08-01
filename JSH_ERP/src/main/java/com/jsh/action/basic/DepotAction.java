@@ -22,8 +22,6 @@ import java.util.Map;
 
 /**
  * 仓库管理
- *
- * @author jishenghua  qq:7-5-2-7-1-8-9-2-0
  */
 @SuppressWarnings("serial")
 public class DepotAction extends BaseAction<DepotModel> {
@@ -52,7 +50,6 @@ public class DepotAction extends BaseAction<DepotModel> {
 
     /**
      * 增加仓库
-     *
      * @return
      */
     public void create() {
@@ -216,7 +213,6 @@ public class DepotAction extends BaseAction<DepotModel> {
 
     /**
      * 查找仓库信息
-     *
      * @return
      */
     public void findBy() {
