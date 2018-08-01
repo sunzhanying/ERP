@@ -25,7 +25,6 @@ import java.util.Map;
 
 /*
  * 单位管理
- * @author ji-sheng-hua  qq:7 5 2 7 1 8 9 2 0
  */
 @SuppressWarnings("serial")
 public class SupplierAction extends BaseAction<SupplierModel> {

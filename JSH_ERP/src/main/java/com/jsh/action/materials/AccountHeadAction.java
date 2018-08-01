@@ -21,7 +21,6 @@ import java.util.Map;
 
 /*
  * 财务表头管理
- * @author jishenghua  qq:752718920
  */
 @SuppressWarnings("serial")
 public class AccountHeadAction extends BaseAction<AccountHeadModel> {

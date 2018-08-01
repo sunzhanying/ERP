@@ -26,7 +26,6 @@ import java.util.Map;
 
 /*
  * 商品管理
- * @author jishenghua  qq:752718920
  */
 @SuppressWarnings("serial")
 public class MaterialAction extends BaseAction<MaterialModel> {

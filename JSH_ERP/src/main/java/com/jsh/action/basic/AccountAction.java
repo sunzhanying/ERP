@@ -24,8 +24,6 @@ import java.util.Map;
 
 /**
  * 结算账户
- *
- * @author ji sheng hua qq7527-18920
  */
 @SuppressWarnings("serial")
 public class AccountAction extends BaseAction<AccountModel> {

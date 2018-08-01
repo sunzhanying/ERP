@@ -19,7 +19,6 @@ import java.util.Map;
 
 /*
  * 商品属性
- * @author ji s h e n g hua  qq:75 27 18 920
  */
 @SuppressWarnings("serial")
 public class MaterialPropertyAction extends BaseAction<MaterialPropertyModel> {

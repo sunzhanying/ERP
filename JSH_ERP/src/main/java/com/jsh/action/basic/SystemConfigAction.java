@@ -19,7 +19,6 @@ import java.util.Map;
 
 /*
  * 系统配置
- * @author jishenghua  qq:7-5-2-7 1-8-9-2-0
  */
 @SuppressWarnings("serial")
 public class SystemConfigAction extends BaseAction<SystemConfigModel> {

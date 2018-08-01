@@ -20,7 +20,6 @@ import java.util.Map;
 
 /*
  * 角色管理
- * @author jishenghua  qq:7-5-2-7-1-8-9-2-0
  */
 @SuppressWarnings("serial")
 public class RoleAction extends BaseAction<RoleModel> {

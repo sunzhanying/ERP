@@ -17,7 +17,6 @@ import java.util.Map;
 
 /*
  * 权限关系管理
- * @author jishenghua  qq:752718920
  */
 @SuppressWarnings("serial")
 public class UserBusinessAction extends BaseAction<UserBusinessModel> {

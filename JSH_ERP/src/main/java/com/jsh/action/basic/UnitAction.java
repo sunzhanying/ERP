@@ -19,8 +19,6 @@ import java.util.Map;
 
 /**
  * 计量单位
- *
- * @author ji shenghua  qq:752 718 920
  */
 @SuppressWarnings("serial")
 public class UnitAction extends BaseAction<UnitModel> {

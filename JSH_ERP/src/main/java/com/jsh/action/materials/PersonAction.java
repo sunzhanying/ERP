@@ -19,7 +19,6 @@ import java.util.Map;
 
 /*
  * 经手人管理
- * @author jishenghua  qq:752718920
  */
 @SuppressWarnings("serial")
 public class PersonAction extends BaseAction<PersonModel> {

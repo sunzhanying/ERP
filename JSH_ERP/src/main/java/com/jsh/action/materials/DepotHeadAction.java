@@ -22,7 +22,6 @@ import java.util.Map;
 
 /*
  * 单据表头管理
- * @author jishenghua  qq:752718920
  */
 @SuppressWarnings("serial")
 public class DepotHeadAction extends BaseAction<DepotHeadModel> {

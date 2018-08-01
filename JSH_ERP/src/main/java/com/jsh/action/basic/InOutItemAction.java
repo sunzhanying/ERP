@@ -19,8 +19,6 @@ import java.util.Map;
 
 /**
  * 收支项目
- *
- * @author ji*sheng*hua  qq 7.5.2.7.1.8.9.2.0
  */
 @SuppressWarnings("serial")
 public class InOutItemAction extends BaseAction<InOutItemModel> {
