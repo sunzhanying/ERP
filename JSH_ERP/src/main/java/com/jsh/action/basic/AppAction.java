@@ -21,8 +21,6 @@ import java.util.Map;
 
 /**
  * 应用
- *
- * @author ji_sheng_hua  qq752 718 920
  */
 @SuppressWarnings("serial")
 public class AppAction extends BaseAction<AppModel> {

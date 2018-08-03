@@ -17,9 +17,6 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-/*
- * @author jishenghua  qq:7-5-2-7-1-8-9-2-0
- */
 @SuppressWarnings("serial")
 public class CategoryAction extends BaseAction<CategoryModel> {
     private CategoryIService categoryService;
@@ -27,8 +24,6 @@ public class CategoryAction extends BaseAction<CategoryModel> {
 
     /**
      * 增加资产类型
-     *
-     * @return
      */
     public void create() {
         Log.infoFileSync("==================开始调用增加资产类型方法create()===================");

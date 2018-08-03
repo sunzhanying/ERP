@@ -26,8 +26,6 @@ public class AssetNameAction extends BaseAction<AssetNameModel> {
 
     /**
      * 增加资产名称
-     *
-     * @return
      */
     public void create() {
         Log.infoFileSync("==================开始调用增加资产名称方法create()===================");
