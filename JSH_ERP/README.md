@@ -22,4 +22,4 @@
 * WEB服务器：Tomcat6.0+
 * 数据库服务器：Mysql5.1
 * JAVA平台: JRE1.6+
-* 操作系统：Windows、Linux等
+* 操作系统：Windows、Linux
